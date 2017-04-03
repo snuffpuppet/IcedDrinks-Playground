@@ -6,7 +6,11 @@ Three sample spreadsheets are available to copy to try the IcedDrinksLib. Steps 
    2dLibrary (1r9wNWbta3ebuYL4ENAdIp4UYKmyNiWf1AqsXYzfXduRHhTZEeTxS9MhZ)
    BetterLog (1DSyxam1ceq72bMHsE6aOVeOl94X78WCwiYPytKi7chlg4x5GqiNXSw0l)
 
-2. Copy the tracker spreadsheet (1oC--z6qoAJPpNGq8GpaodYCeDk90ucnN3GoOWtXTxWs), go to Tools->Script Editor and pull down the code.gs from IcedDinks-Samples into that file.
+2. Save a version of the code under File-> Manage Versions
+
+3. Copy the tracker spreadsheet (1oC--z6qoAJPpNGq8GpaodYCeDk90ucnN3GoOWtXTxWs), go to Tools->Script Editor and pull down the code.gs from IcedDinks-Samples into that file.
+
+4. Add the IcedDrinksLib library to the tracker script using the Id from the URL of the script file. Choose the version you have saved.
 
 3. Copy the Monday and Thursday build sheets (1GDwhF530qmeNNHVwKvr36IvjtuGu5IVd8LiYAKabXuE) and (1dw3HLoGTxLT4Jv0l_ec2mhjjR_yIwMKzFnxHuq0Wgeg)
 
