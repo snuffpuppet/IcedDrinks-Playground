@@ -2,7 +2,9 @@
 A sample environment in which to play with the iced drinks
 
 Three sample spreadsheets are available to copy to try the IcedDrinksLib. Steps are as follows:
-1. Pull the IcedDrinksLib code into a Google Apps Script file and add the 2dLibrary and BetterLogger
+1. Pull the IcedDrinksLib code into a Google Apps Script file and add the following libraries under reources->libraries:
+   2dLibrary (1r9wNWbta3ebuYL4ENAdIp4UYKmyNiWf1AqsXYzfXduRHhTZEeTxS9MhZ)
+   BetterLog (1DSyxam1ceq72bMHsE6aOVeOl94X78WCwiYPytKi7chlg4x5GqiNXSw0l)
 
 2. Copy the tracker spreadsheet (1oC--z6qoAJPpNGq8GpaodYCeDk90ucnN3GoOWtXTxWs), go to Tools->Script Editor and pull down the code.gs from IcedDinks-Samples into that file.
 
